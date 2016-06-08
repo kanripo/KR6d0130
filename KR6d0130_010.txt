@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:33.297576
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 摩訶止觀
 #+PROPERTY: CBETA_ID T46n1911
 #+PROPERTY: ID KR6d0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1911
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0130_T_010-0131c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 第十(上)摩訶止觀卷第十(上)¶
+摩訶止觀卷第十(上)¶
 ¶
 隋天台智者大師說¶
 門人灌頂記¶
@@ -407,8 +406,7 @@
 摩訶止觀卷第十(上)¶
 ¶
 ¶
-
- 第十(下)摩訶止觀卷第十(下)¶
+摩訶止觀卷第十(下)¶
 ¶
 隋天台智者大師說¶
 門人灌頂記¶
@@ -586,7 +584,7 @@
 法斷滅世間出世等善。闡提雖惡尚存憐¶
 愛之善。空見永無純三品惡。逆害傷毀即地¶
 獄界。無慚無愧即畜生界。慳貪破齋不淨¶
-自活即餓鬼界。破齋故常飢。不淨故噉穢。¶
+自活即餓鬼界。破齊故常飢。不淨故噉穢。¶
 因空行善者。持戒苦行莊嚴十善三業淳¶
 熟即三善道界。又發根本即色界。又因空¶
 生聲聞者。若謂空者其實不識空中四諦。¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:32.883524
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 摩訶止觀
 #+PROPERTY: CBETA_ID T46n1911
 #+PROPERTY: ID KR6d0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1911
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0130_T_002-0011a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 第二(上)摩訶止觀卷第二(上)¶
+摩訶止觀卷第二(上)¶
 ¶
 隋天台智者大師說¶
 門人灌頂記¶
@@ -487,8 +486,7 @@
 摩訶止觀卷第二(上)¶
 ¶
 ¶
-
- 第二(下)摩訶止觀卷第二(下)¶
+摩訶止觀卷第二(下)¶
 ¶
 隋天台智者大師說¶
 門人灌頂記¶
@@ -855,8 +853,7 @@
 <pb:KR6d0130_T_002-0020b>¶
 何同異。答。修名習行證名發得。又修名習¶
 因證名習果。皆即生可獲。今論界報隔在¶
-來世。以此為異。二乘但有習果無有果¶
-報。大乘具有(云云)。
+來世。以此為異。二乘但有習果無有果報。大乘具有(云云)。
 
 ○第四為通裂大網諸經¶
 論故。說是止觀者。若人善用止觀觀心。¶
